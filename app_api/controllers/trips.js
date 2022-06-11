@@ -109,6 +109,8 @@ const getUser = (req, res, callback) => {
   }
 };
 
+
+
 module.exports = {
   tripsList,
   tripsFindCode,
